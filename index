@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon E-commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="products.html">Produits</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="banner">
+            <h1>Bienvenue dans notre boutique en ligne!</h1>
+            <a href="products.html" class="cta-btn">Acheter maintenant</a>
+        </div>
+    </header>
+    <footer>
+        <p>&copy; 2026 Mon E-commerce</p>
+    </footer>
+</body>
+</html>
